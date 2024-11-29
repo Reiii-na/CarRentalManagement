@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using CarRentalManagement.Data;
 using CarRentalManagement.Configuration.Entities;
 
 namespace CarRentalManagement.Data
